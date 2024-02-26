@@ -1,0 +1,6 @@
+C:\Users\tural\Desktop\Tasks\Tasks\bin\Debug\Tasks.exe
+C:\Users\tural\Desktop\Tasks\Tasks\bin\Debug\Tasks.pdb
+C:\Users\tural\Desktop\Tasks\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+C:\Users\tural\Desktop\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\tural\Desktop\Tasks\Tasks\obj\Debug\Tasks.exe
+C:\Users\tural\Desktop\Tasks\Tasks\obj\Debug\Tasks.pdb
